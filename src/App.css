@@ -1,0 +1,56 @@
+.App {
+
+  text-align: center;
+  justify-content: center;
+  
+}
+
+
+
+.title {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 0px;
+  padding: 20px;
+  height: 10vh;
+  color: white;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-weight: bolder;
+  background-color: #282c34;
+}
+
+.input-field {
+
+  margin: 10px;
+  width: 50vw;
+  border: 0px;
+  padding: 10px;
+  font-size: 20px;
+  border-radius: 20px;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+.btn {
+  border: 0px;
+  background-color: #282c34;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 10px;
+  margin: 10px;
+  cursor: pointer;
+}
+
+
+.card {
+  display: inline-block;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  padding: 30px;
+  min-width: 40vw;
+  margin: 5px;
+  border: 0px;
+  border-radius: 10px;
+  
+}
+
+
